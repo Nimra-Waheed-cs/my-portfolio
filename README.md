@@ -23,7 +23,7 @@ This site highlights my skills, projects, and contact details in a clean and mod
 
 
  Live Demo  
- [View Portfolio](https://nimra-waheed-cs.github.io/my-portfolio/)  
+ [View Portfolio] https://nimra-waheed-cs.github.io/my-portfolio/  
 
 
 ## Contact Me  
